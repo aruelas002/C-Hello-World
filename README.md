@@ -1,9 +1,1 @@
-#include <iostream>
- 
- using namespace std;
- 
- int main ()
- {
-  cout << "Hello, World!" << endl;
-  return 0;
- }
+Hello-World is a startup project that allows exploration of Github and its resources
